@@ -110,7 +110,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-<img width="1915" height="1078" alt="Screenshot 2026-08-07 214511" src="https://github.com/user-attachments/assets/d5491336-92de-42a2-a958-c9dac4d2b682" />
+<img width="1083" height="850" alt="image" src="https://github.com/user-attachments/assets/ee194353-a386-4c40-8457-a1d55940693e" />
+
 
 
 
@@ -119,7 +120,7 @@ Describe the steps performed in a UML use case.
 # SEQUENCE DIAGRAM
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements fora new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios. 
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/57acd8c1-20fb-4266-8483-a3662cdd88a7" />
+
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -131,7 +132,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/57acd8c1-20fb-4266-8483-a3662cdd88a7" />
 
 
 
