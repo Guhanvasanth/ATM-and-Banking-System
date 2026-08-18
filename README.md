@@ -47,7 +47,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/6802b1d2-478f-4102-9549-d9027b644a3f" />
+<img width="1203" height="940" alt="image" src="https://github.com/user-attachments/assets/a429dbe6-ef31-4740-9937-e971cba5af90" />
+
 
 
 
@@ -77,7 +78,8 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-<img width="1917" height="1078" alt="Screenshot 2026-08-07 221143" src="https://github.com/user-attachments/assets/e1f989a8-51b5-4103-8465-b886a66e02d3" />
+<img width="707" height="518" alt="image" src="https://github.com/user-attachments/assets/df34486d-67c3-41b6-9274-c06e794a9ed0" />
+
 
 
 
